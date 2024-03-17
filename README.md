@@ -169,29 +169,4 @@ const analysis = analyze(startingCapital, trades);
 console.log(analysis);
 ```
 
-### Visualizing the results
 
-Use [Data-Forge Plot](https://github.com/data-forge/data-forge-plot) to visualize the equity curve and drawdown chart from your trading strategy:
-
-```javascript
-computeEquityCurve(trades)
-    .plot()
-    .renderImage("output/my-equity-curve.png");
-
-computeDrawdown(trades)
-    .plot()
-    .renderImage("output/my-drawdown.png");
-```
-
-## Advanced backtesting
-
-We are only just getting started in this example to learn more please follow my [blog](http://www.the-data-wrangler.com/) and [YouTube channel](https://www.youtube.com/channel/UCOxw0jy384_wFRwspgq7qMQ).
-
-## Resources
-
-- [Data-Forge](http://data-forge-js.com/)
-- [Data-Forge Notebook](http://www.data-forge-notebook.com/)
-
-## Support the developer 
-
-<a target="_blank" href="https://www.codecapers.com.au/about#support-my-work">Click here to **support the developer.**</a>
