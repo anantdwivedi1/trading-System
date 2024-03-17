@@ -6,28 +6,6 @@ This API builds on [Data-Forge](http://data-forge-js.com/) and is best used from
 
 Check out the [release notes](release-notes.md) to see updates and breaking changes.
 
-[Click here to support my work](https://www.codecapers.com.au/about#support-my-work)
-
-Please see what this looks like in [the Grademark first example](https://github.com/grademark/grademark-first-example) and the unit tests in this repo.
-
-Love this? Please star this repo!
-
-## First example
-
-From the [Grademark first example](https://github.com/grademark/grademark-first-example) here's some example output. [Click to see the first example as a notebook.](https://grademark.github.io/grademark-first-example/)
-
-Analysis of a sequence of trades looks like this:
-
-![Analysis of trades screenshot](https://raw.githubusercontent.com/grademark/grademark-first-example/master/output/analysis-screenshot.png)
-
-Here's a chart that visualizes the equity curve for the example strategy:
-
-![Equity curve](https://raw.githubusercontent.com/grademark/grademark-first-example/master/output/my-equity-curve-pct.png)
-
-Here's another chart, this one is a visualization of the drawdown for the example strategy:
-
-![Drawdown](https://raw.githubusercontent.com/grademark/grademark-first-example/master/output/my-drawdown-pct.png)
-
 ## Pre-requisites
 
 - Make sure your data is sorted in forward chronological order. 
