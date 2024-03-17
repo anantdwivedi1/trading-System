@@ -1,4 +1,3 @@
-# Grademark
 
 Toolkit for algo trading and backtesting in JavaScript and TypeScript.
 
